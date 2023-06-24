@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .fullscreen-image {
+    width: 90%;
+    height: 100%;
+  }
+  #boton1{
+    background-color: rgb(188, 188, 252);
+    height: 100%;
+    width: 25px;
+    border: 0px;
+    border-radius: 10px;
+  }
+  #boton2{
+    background-color: rgb(188, 188, 252);
+    height: 30px;
+    width: 50%;
+    border: 0px;
+    border-radius: 10px;
+  }
+  
